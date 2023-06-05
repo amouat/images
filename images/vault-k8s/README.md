@@ -2,7 +2,7 @@
 # vault-k8s
 | | |
 | - | - |
-| **Status** | experimental |
+| **Status** | stable |
 | **OCI Reference** | `cgr.dev/chainguard/vault-k8s` |
 
 
@@ -44,5 +44,3 @@ Available commands are:
     agent-inject    Vault Agent injector service
     version         Prints the version
 ```
-
-
